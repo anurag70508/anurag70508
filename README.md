@@ -1,7 +1,3 @@
-# 💫 About Me:
-👋 About Me<br><br>🎓 B.Tech in Chemical Engineering @ NIT Agartala<br>🤖 Passionate about Data Analytics, Machine Learning, Deep Learning & Artificial Intelligence<br>📊 Building data-driven solutions with Python, SQL, Power BI & Scikit-learn<br>🚀 Always learning, exploring new technologies, and contributing to open-source projects<br><br>💻 Tech Stack<br><br>Languages: Python, SQL, C++<br>Data Science & ML: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn<br>Databases: PostgreSQL, MySQL, MongoDB<br>Data Visualization: Power BI<br>Tools & Platforms: Git, GitHub, Jupyter Notebook, Google Colab, VS Code, PyCharm<br>Cloud & DevOps: AWS *(currently learning)*<br>Currently Learning:** Deep Learning, TensorFlow, PyTorch, Generative AI, MLOps<br><br>📫 Let's connect and build impactful AI solutions together!**<br>
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anurag-gupta-809853324) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anurag70508@gmail.com) 
 
