@@ -1,7 +1,6 @@
 👋 About Me
 
-🎓 B.Tech in Chemical Engineering @ NIT Agartala
-🤖 Passionate about Data Analytics, Machine Learning, Deep Learning & Artificial Intelligence
+🎓 I am Anurag Gupta currently doing B.Tech in Chemical Engineering @ NIT Agartala 🤖 Passionate about Data Analytics, Machine Learning, Deep Learning & Artificial Intelligence
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anurag-gupta-809853324) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anurag70508@gmail.com) 
